@@ -3,7 +3,7 @@
 *"The only way to do great work is to love what you do." - Steve Jobs* ✨
 
 ## About Me
-Hello! I'm **Swapnil Vidhate** from India. 🇮🇳 I hold a Bachelor's degree in Computer Applications from New Arts, Commerce, and Science College, Ahmednagar. Currently, I'm sharpening my skills in web development at A2Z IT Hub, Ahmednagar. 
+Hello! I'm **Swapnil Vidhate** from India. I hold a Bachelor's degree in Computer Applications from New Arts, Commerce, and Science College, Ahmednagar. Currently, I'm sharpening my skills in web development at A2Z IT Hub, Ahmednagar. 
 
 ## Skills & Technologies
 I am passionate about web development and continuously learning new technologies. Here’s a snapshot of my skills and areas of expertise:
@@ -38,7 +38,7 @@ I am a beginner, but I am dedicated to learning and mastering new technologies e
 ## 📬 Connect with Me
 - **Email**: [swapnilvidhate238@gmail.com](mailto:swapnilvidhate238@gmail.com) 📧
 - **LinkedIn**: [www.linkedin.com/in/swapnilvidhate](https://www.linkedin.com/in/swapnilvidhate) 🔗
-
+- **X**: [https://x.com/SwapnilVidhat18](https://x.com/SwapnilVidhat18) 🔗
 ---
 
 Thank you for taking the time to read about me. I look forward to the opportunity to work and grow together!
